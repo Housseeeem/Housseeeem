@@ -38,7 +38,7 @@ I'm a future AI engineer passionate about building impactful intelligent systems
 ## 📫 Connect with Me
 
 * LinkedIn: [linkedin.com/in/houssem-somai](https://www.linkedin.com/in/houssem-somai-50606227a/)
-* GitHub: [github.com/houssem-somai](https://github.com/houssem-somai)
+* GitHub: [github.com/houssem-somai](https://github.com/Housseeeem)
 * Email: [houssem.somai@esprit.tn](mailto:houssem.somai@esprit.tn)
 
 ---
